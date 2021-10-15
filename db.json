@@ -2,28 +2,28 @@
 "routes": [
     { 
 	"id": 1, 
-     	"url": "writing-principles" ,
+     	"url": "/writing-principles" ,
 	"copy": "Writing Goals and Principles",
 	"body": "Every piece of content we publish is supported by a number"
 	    
     },
     { 
 	"id": 2, 
-     	"url": "voice-tone" ,
+     	"url": "/voice-tone" ,
 	"copy": "Voice and Tone",
 	"body": "Every piece of content we publish is supported by a number"
 	    
     },
     { 
 	"id": 3, 
-     	"url": "writing-about-mailchimp" ,
+     	"url": "/writing-about-mailchimp" ,
 	"copy": "Writing about Mailchimp",
 	"body": "Every piece of content we publish is supported by a number"
 	    
     },
     { 
 	"id": 4, 
-     	"url": "writing-about-people" ,
+     	"url": "/writing-about-people" ,
 	"copy": "Writing About People",
 	"body": "Every piece of content we publish is supported by a number"
 	    
