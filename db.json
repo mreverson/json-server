@@ -1,0 +1,78 @@
+list: [
+    {
+        url: "/writing-principles",
+        copy: "Writing Goals and Principles",
+		body: `Web Elements
+		Every piece of content we publish is supported by a number of smaller pieces. This section lays out our style in regards to these web elements, and explains our approach to the tricky art of SEO.
+
+		Guidelines
+		Alt text
+		Alt text is a way to label images, and it's especially important for people who can’t see the images on our website. Alt text should describe the image in a brief sentence or two.`
+    },
+    {
+        url: "/voice-tone",
+        copy: "Voice and Tone",
+		body: `Web Elements
+		Every piece of content we publish is supported by a number of smaller pieces. This section lays out our style in regards to these web elements, and explains our approach to the tricky art of SEO.
+
+		Guidelines
+		Alt text
+		Alt text is a way to label images, and it's especially important for people who can’t see the images on our website. Alt text should describe the image in a brief sentence or two.`
+    
+    },
+    {
+        url: "/writing-about-mailchimp",
+        copy: "Writing about Mailchimp",
+		body: `Web Elements
+		Every piece of content we publish is supported by a number of smaller pieces. This section lays out our style in regards to these web elements, and explains our approach to the tricky art of SEO.
+
+		Guidelines
+		Alt text
+		Alt text is a way to label images, and it's especially important for people who can’t see the images on our website. Alt text should describe the image in a brief sentence or two.`
+    
+    },
+    {
+        url: "/writing-about-people",
+        copy: "Writing About People",
+		body: `Web Elements
+		Every piece of content we publish is supported by a number of smaller pieces. This section lays out our style in regards to these web elements, and explains our approach to the tricky art of SEO.
+
+		Guidelines
+		Alt text
+		Alt text is a way to label images, and it's especially important for people who can’t see the images on our website. Alt text should describe the image in a brief sentence or two.`
+    
+    },
+    {
+        url: "/grammar-and-mechanics",
+        copy: "Grammar and Mechanics",
+		body: `Web Elements
+		Every piece of content we publish is supported by a number of smaller pieces. This section lays out our style in regards to these web elements, and explains our approach to the tricky art of SEO.
+
+		Guidelines
+		Alt text
+		Alt text is a way to label images, and it's especially important for people who can’t see the images on our website. Alt text should describe the image in a brief sentence or two.`
+    
+    },
+    {
+        url: "/web-elements",
+        copy: "Web Elements",
+		body: `Web Elements
+		Every piece of content we publish is supported by a number of smaller pieces. This section lays out our style in regards to these web elements, and explains our approach to the tricky art of SEO.
+
+		Guidelines
+		Alt text
+		Alt text is a way to label images, and it's especially important for people who can’t see the images on our website. Alt text should describe the image in a brief sentence or two.`
+    
+    },
+    {
+        url: "/technical-content",
+        copy: "Writing Technical Content",
+		body: `Web Elements
+		Every piece of content we publish is supported by a number of smaller pieces. This section lays out our style in regards to these web elements, and explains our approach to the tricky art of SEO.
+
+		Guidelines
+		Alt text
+		Alt text is a way to label images, and it's especially important for people who can’t see the images on our website. Alt text should describe the image in a brief sentence or two.`
+    
+    },
+]
