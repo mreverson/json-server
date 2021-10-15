@@ -20,6 +20,13 @@
 	"copy": "Writing about Mailchimp",
 	"body": "Every piece of content we publish is supported by a number"
 	    
+    },
+    { 
+	"id": 4, 
+     	"url": "writing-about-people" ,
+	"copy": "Writing About People",
+	"body": "Every piece of content we publish is supported by a number"
+	    
     }
   ]
 }
