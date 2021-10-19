@@ -1,31 +1,38 @@
 {
 "routes": [
-    { 
+{ 
 	"id": 1, 
-     	"url": "/writing-principles" ,
-	"copy": "Writing Goals and Principles",
-	"body": "Every piece of content we publish is supported by a number"
+     	"url": "/" ,
+	"copy": "Home",
+	"body": "Every piece of content we publish is supported by a number 1"
 	    
     },
     { 
 	"id": 2, 
-     	"url": "/voice-tone" ,
-	"copy": "Voice and Tone",
-	"body": "Every piece of content we publish is supported by a number"
+     	"url": "/writing-principles" ,
+	"copy": "Writing Goals and Principles",
+	"body": "Every piece of content we publish is supported by a number 2"
 	    
     },
     { 
 	"id": 3, 
-     	"url": "/writing-about-mailchimp" ,
-	"copy": "Writing about Mailchimp",
-	"body": "Every piece of content we publish is supported by a number"
+     	"url": "/voice-tone" ,
+	"copy": "Voice and Tone",
+	"body": "Every piece of content we publish is supported by a number 3"
 	    
     },
     { 
 	"id": 4, 
+     	"url": "/writing-about-mailchimp" ,
+	"copy": "Writing about Mailchimp",
+	"body": "Every piece of content we publish is supported by a number 4"
+	    
+    },
+    { 
+	"id": 5, 
      	"url": "/writing-about-people" ,
 	"copy": "Writing About People",
-	"body": "Every piece of content we publish is supported by a number"
+	"body": "Every piece of content we publish is supported by a number 5"
 	    
     }
   ]
