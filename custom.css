@@ -1,4 +1,6 @@
-
+body {
+    text-transform: capitalize;
+}
 
 li {
     padding-top: 40px;
